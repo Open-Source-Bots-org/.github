@@ -20,7 +20,7 @@ We create bots that:
 
 | Bot Name     | Description                                    | Platform(s)      | Status    |
 | ------------ | ---------------------------------------------- | ---------------- | --------- |
-| `RugPlayBot` | Automates to-do lists and daily task reminders | RugPlay          | 🟢 Active |
+| `RugPlayBot` | A automatedway to farm money on RugPlay        | RugPlay          | 🟢 Active |
 
 > Visit our [GitHub Projects](https://github.com/orgs/Open-Source-Bots-org/repositories) page for the full list.
 
